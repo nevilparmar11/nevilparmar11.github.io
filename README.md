@@ -1,7 +1,7 @@
 ### Github Portfolio.
 
 ## Have a look 😁
-![GitubProfile](https://user-images.githubusercontent.com/48133426/71556993-9a7a6f00-2a65-11ea-852e-f43c55e72d78.png)
+![GitubProfile](https://user-images.githubusercontent.com/48133426/115608635-2de34d80-a304-11eb-8dd5-bf4a4a7b092b.png)
 
 
 ## 🚨 Forking this repo
